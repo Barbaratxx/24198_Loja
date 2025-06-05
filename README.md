@@ -15,7 +15,7 @@
 - Contato
 
 🎯 Sobre o Projeto
-- Este é um sistema de e-commerce completo desenvolvido como projeto acadêmico, oferecendo uma solução robusta para vendas online com painel administrativo, carrinho de compras e integração de pagamentos.
+- Este é um sistema de e-commerce completo desenvolvido como projeto académico, oferecendo uma solução robusta para vendas online com painel administrativo, carrinho de compras e integração de pagamentos.
 
 🎨 Características Principais
 - Interface moderna e responsiva
