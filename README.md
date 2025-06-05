@@ -242,7 +242,7 @@ SOFTWARE.
 
 📞 Contato --
 Bárbara Teixeira  barbaratxx@gmail.com
-https://github.com/barbaratxx/sistema-ecommerce-php
+https://github.com/Barbaratxx/24198_Loja
 
 🙏 Agradecimentos --
 Bootstrap pela framework CSS
