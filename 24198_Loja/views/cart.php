@@ -19,7 +19,7 @@ $sql->execute();
 $result = $sql->get_result();
 
 // Configuração do PayPal (ID do cliente)
-$PAYPAL_CLIENT_ID = "AWzFudKtEu4rjPHuyzdpaB-HoJN71FIT9-KzB0Ial2xYZvBZgVfD4c5ORPqzw2k01GIrRkDH0-tFC-Ek";
+$PAYPAL_CLIENT_ID = "------------------------------------------------------------";
 
 ?>
 <!DOCTYPE html>
