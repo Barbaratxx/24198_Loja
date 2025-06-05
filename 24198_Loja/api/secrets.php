@@ -5,8 +5,8 @@
 // Armazena a password do email de forma segura
 // IMPORTANTE: Este arquivo deve estar no .gitignore para não ser enviado para repositórios públicos
 
-$EMAIL_PASS = "P@ssw0rd";  // Password da conta de email para envio automático
-$EMAIL_SAPO = "joao.monge@sapo.pt"; // Endereço de email remetente
+$EMAIL_PASS = "-------";  // Password da conta de email para envio automático
+$EMAIL_SAPO = "----------"; // Endereço de email remetente
 
 
 
